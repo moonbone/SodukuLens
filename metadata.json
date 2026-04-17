@@ -1,0 +1,12 @@
+{
+  "name": "Sudoku Scan & Solve",
+  "description": "An AI-powered Sudoku solver that captures puzzles via camera, recognizes the grid using Gemini, and solves them instantly.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "AI-powered grid recognition",
+    "Instant Sudoku solving",
+    "Camera integration"
+  ]
+}
